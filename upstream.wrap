@@ -1,0 +1,6 @@
+[wrap-file]
+directory = wren-0.3.0
+
+source_url = https://github.com/wren-lang/wren/archive/0.3.0.tar.gz
+source_filename = 0.3.0.tar.gz
+source_hash = c566422b52a18693f57b15ae4c9459604e426ea64eddb5fbf2844d8781aa4eb7
